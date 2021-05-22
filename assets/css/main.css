@@ -41,6 +41,9 @@ footer, header, hgroup, menu, nav, section {
 		padding-left:1rem;
 		padding-right:1rem;
            }
+	.slo{
+		font-style:italics;
+	}
 
 	.nice {
 	  float: left;
