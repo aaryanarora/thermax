@@ -37,6 +37,11 @@ footer, header, hgroup, menu, nav, section {
 	  background-color: #3330;
 	}
 
+        .ma{
+		padding-left:1rem;
+		padding-right:1rem;
+           }
+
 	.nice {
 	  float: left;
 	}
