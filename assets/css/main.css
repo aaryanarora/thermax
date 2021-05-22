@@ -42,7 +42,8 @@ footer, header, hgroup, menu, nav, section {
 		padding-right:1rem;
            }
 	.slo{
-		font-style:italics;
+		font-style: italic;
+		font-size: 2rem;
 	}
 
 	.nice {
